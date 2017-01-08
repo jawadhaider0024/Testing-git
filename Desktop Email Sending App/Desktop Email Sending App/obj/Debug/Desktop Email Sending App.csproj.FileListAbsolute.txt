@@ -1,0 +1,9 @@
+D:\Projects\Applications\Desktop Email Sending App\Desktop Email Sending App\bin\Debug\Desktop Email Sending App.exe.config
+D:\Projects\Applications\Desktop Email Sending App\Desktop Email Sending App\bin\Debug\Desktop Email Sending App.exe
+D:\Projects\Applications\Desktop Email Sending App\Desktop Email Sending App\bin\Debug\Desktop Email Sending App.pdb
+D:\Projects\Applications\Desktop Email Sending App\Desktop Email Sending App\obj\Debug\Desktop Email Sending App.csprojResolveAssemblyReference.cache
+D:\Projects\Applications\Desktop Email Sending App\Desktop Email Sending App\obj\Debug\Desktop_Email_Sending_App.Form1.resources
+D:\Projects\Applications\Desktop Email Sending App\Desktop Email Sending App\obj\Debug\Desktop_Email_Sending_App.Properties.Resources.resources
+D:\Projects\Applications\Desktop Email Sending App\Desktop Email Sending App\obj\Debug\Desktop Email Sending App.csproj.GenerateResource.Cache
+D:\Projects\Applications\Desktop Email Sending App\Desktop Email Sending App\obj\Debug\Desktop Email Sending App.exe
+D:\Projects\Applications\Desktop Email Sending App\Desktop Email Sending App\obj\Debug\Desktop Email Sending App.pdb
