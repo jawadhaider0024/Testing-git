@@ -1,0 +1,13 @@
+c:\users\zia\documents\visual studio 2012\Projects\Ping_WindowsFormsApplication\Ping_WindowsFormsApplication\bin\Debug\Ping_WindowsFormsApplication.exe.config
+C:\Users\Zia\documents\visual studio 2012\Projects\Ping_WindowsFormsApplication\Ping_WindowsFormsApplication\obj\Debug\Ping_WindowsFormsApplication.csprojResolveAssemblyReference.cache
+C:\Users\Zia\documents\visual studio 2012\Projects\Ping_WindowsFormsApplication\Ping_WindowsFormsApplication\obj\Debug\Ping_WindowsFormsApplication.Form1.resources
+C:\Users\Zia\documents\visual studio 2012\Projects\Ping_WindowsFormsApplication\Ping_WindowsFormsApplication\obj\Debug\Ping_WindowsFormsApplication.Properties.Resources.resources
+C:\Users\Zia\documents\visual studio 2012\Projects\Ping_WindowsFormsApplication\Ping_WindowsFormsApplication\obj\Debug\Ping_WindowsFormsApplication.csproj.GenerateResource.Cache
+C:\Users\Zia\documents\visual studio 2012\Projects\Ping_WindowsFormsApplication\Ping_WindowsFormsApplication\bin\Debug\Ping_WindowsFormsApplication.exe
+C:\Users\Zia\documents\visual studio 2012\Projects\Ping_WindowsFormsApplication\Ping_WindowsFormsApplication\bin\Debug\Ping_WindowsFormsApplication.pdb
+C:\Users\Zia\documents\visual studio 2012\Projects\Ping_WindowsFormsApplication\Ping_WindowsFormsApplication\obj\Debug\Ping_WindowsFormsApplication.exe
+C:\Users\Zia\documents\visual studio 2012\Projects\Ping_WindowsFormsApplication\Ping_WindowsFormsApplication\obj\Debug\Ping_WindowsFormsApplication.pdb
+C:\Users\Zia\documents\visual studio 2012\Projects\Ping_WindowsFormsApplication\Ping_WindowsFormsApplication\bin\Debug\Ping_WindowsFormsApplication.exe.manifest
+C:\Users\Zia\documents\visual studio 2012\Projects\Ping_WindowsFormsApplication\Ping_WindowsFormsApplication\bin\Debug\Ping_WindowsFormsApplication.application
+C:\Users\Zia\documents\visual studio 2012\Projects\Ping_WindowsFormsApplication\Ping_WindowsFormsApplication\obj\Debug\Ping_WindowsFormsApplication.exe.manifest
+C:\Users\Zia\documents\visual studio 2012\Projects\Ping_WindowsFormsApplication\Ping_WindowsFormsApplication\obj\Debug\Ping_WindowsFormsApplication.application
